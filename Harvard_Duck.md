@@ -1,4 +1,4 @@
-# 🦆 **[Harvard CS50 Duck Emoji Symbolism]**  
+# 🦆 **Harvard CS50 Duck Emoji Symbolism**  
 
 ## 📅 **Context**  
 - **Date:** 29/10/2024  
@@ -8,7 +8,7 @@
 
 ## 💡 **Explanation**  
 ### 🐤 **Why Does CS50 Use the Rubber Duck Mascot?**  
-Harvard's CS50 course adopted the **rubber duck** symbol to teach the concept of **Rubber Duck Debugging**.  
+Harvard's CS50 course adopted the **rubber duck** symbol which represnts the concept of **Rubber Duck Debugging**.  
 
 In this technique:
 - 🗣️ Students are encouraged to **explain their code or issues aloud** to a rubber duck (or symbolically, the 🦆 emoji).  
